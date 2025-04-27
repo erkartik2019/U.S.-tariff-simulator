@@ -9,16 +9,19 @@ It allows policymakers, analysts, and businesses to estimate trade losses, secto
 The simulator also allows user-driven tariff inputs to explore additional scenarios dynamically.
 
 **Objectives
+
  - Model the expected reduction in U.S. imports by category under the July 9 tariff regime.
  - Allow users to simulate additional tariff scenarios beyond the July 9 baseline.
  - Analyze which partner countries are likely to replace Chinese exports.
  - Visualize trade loss, adjusted imports, and competitive replacement clearly and interactively.
 
 **Data Sources
+
  - U.S. Imports and Exports 2024 - 	UN Comtrade Data aggregated HS-4 level
  - Tariff Schedule (Post-July 9) - Official White House announcement, supplemented with manual inputs from http://tradecomplianceresourcehub.com/2025/04/24/trump-2-0-tariff-tracker/#country
 
 **Methodology and Assumptions
+
 ***Import Elasticity Model
 
  - Elasticity Assumption: 1% increase in tariff → 1% proportional decrease in import value.
@@ -47,9 +50,9 @@ The simulator also allows user-driven tariff inputs to explore additional scenar
  - Bar Chart (Page 2)	Matches Competitor Gains vs China Trade Loss by category
 
 **Summary**
-The U.S. Tariff Impact Simulator demonstrates that tariff policy shifts can drastically alter trade flows.
-It shows how high tariff elasticity can cause imports to collapse — creating opportunities for other trading partners to step in.
-The simulator provides an intuitive, dynamic tool to model different tariff scenarios and understand real-world competitive impacts.
+ - The U.S. Tariff Impact Simulator demonstrates that tariff policy shifts can drastically alter trade flows.
+ - It shows how high tariff elasticity can cause imports to collapse — creating opportunities for other trading partners to step in.
+ - The simulator provides an intuitive, dynamic tool to model different tariff scenarios and understand real-world competitive impacts.
 
 Page 1: ![Tariff Simulator_page-0001](https://github.com/user-attachments/assets/78a27095-2a3d-475d-b507-58c4d5f0ec8a)
 
